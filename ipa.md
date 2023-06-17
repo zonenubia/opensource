@@ -1,9 +1,18 @@
 ---
-layout: default
+lang: en
+title: IPA End to End Protocol
+description: Interoperable Private Attribution (IPA) is a proposal for a new web platform API for advertising attribution.
+class: ipa
+order: 5
+image: /assets/images/ipa/ipa.png
+related:
+  - metrics
+  - leadership
 ---
 
 # IPA End to End Protocol
 
+![img](/assets/images/ipa/ipa.png)
 IPA End to End Protocol by  [AWDEV](https://www.awdev.my.id)
 
 # Overview
